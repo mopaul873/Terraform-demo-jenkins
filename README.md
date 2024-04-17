@@ -1,2 +1,2 @@
 # Terraform-demo-jenkins
-Jenkins installation usion terrraform configuration
+Jenkins installation using terrraform configuration
